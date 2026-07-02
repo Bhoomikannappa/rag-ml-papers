@@ -8,4 +8,3 @@ groq
 python-dotenv
 streamlit
 tiktoken
-numpy==1.26.4
